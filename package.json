@@ -1,0 +1,30 @@
+{
+  "name": "atelier",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Chat-driven UI design: an agent writes real Penpot Plugin API code and the design lands on a live canvas.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "mock": "node test/mock-mcp-server.mjs",
+    "verify": "node test/verify.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^5.2.0",
+    "typescript": "^5.6.3",
+    "vite": "^7.3.7"
+  }
+}
