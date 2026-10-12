@@ -9,6 +9,14 @@ Penpot and keep editing, not a picture of one.
 
 ![Atelier running](results/ui-running.png)
 
+<img width="1697" height="1262" alt="Screenshot at Oct 12 23-55-01" src="https://github.com/user-attachments/assets/6baa6343-9bdb-4c9c-ab57-ca084fe08e10" />
+<img width="1695" height="1262" alt="Screenshot at Oct 12 23-55-18" src="https://github.com/user-attachments/assets/9f740eac-126c-4935-8918-0815aecbbab9" />
+
+
+https://github.com/user-attachments/assets/bd343a20-8cdf-440d-a88b-99464885ab41
+
+
+
 ```
 npm install && npm run dev
 ```
@@ -518,7 +526,7 @@ Penpot and a model endpoint.
 ### Development setup
 
 ```bash
-git clone https://github.com/<you>/atelier
+git clone https://github.com/harishkotra/penpot-design-ui-with-ai
 cd atelier
 npm install
 npm run verify        # green before you change anything
